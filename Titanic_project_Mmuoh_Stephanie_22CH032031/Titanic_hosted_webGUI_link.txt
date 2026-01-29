@@ -1,7 +1,8 @@
-Name: Obisesan Anjolaoluwa
-Matric Number: 22CH032040
+Name: Mmuoh Stephanie
+Matric Number: 22CH032031
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
-Live URL: https://titanic-project-obisesan-anjolaoluwa.onrender.com
+Live URL: https://titanic-project-mmuoh-stephanie.onrender.com
 GitHub Repository: https://github.com/stephanie-creat/Titanic_project_Mmuoh_Stephanie_22CH032031.git
+
 
