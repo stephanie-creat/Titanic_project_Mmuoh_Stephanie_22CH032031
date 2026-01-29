@@ -3,4 +3,5 @@ Matric Number: 22CH032040
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
 Live URL: https://titanic-project-obisesan-anjolaoluwa.onrender.com
-GitHub Repository: https://github.com/Anjola10/Titanic_Project_Obisesan_Anjolaoluwa_22CH032040.git
+GitHub Repository: https://github.com/stephanie-creat/Titanic_project_Mmuoh_Stephanie_22CH032031.git
+
